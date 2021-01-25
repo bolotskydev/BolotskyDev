@@ -14,6 +14,5 @@
 </p>
 
 <p align="left">
-<a href="https://twitter.com/bolotskydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bolotskydev" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/bolotskydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bolotskydev" height="20" width="20" /></a>
 </p>
