@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kirill</h1>
-<h3 align="left">A passionate frontend developer and FP fan from Armenia 🇦🇲</h3>
+<h3 align="left">A passionate frontend developer based in Antalya, Turkey</h3>
 
 - 🔭 I’m currently working in awesome [Pixel Point Co](https://github.com/pixel-point) using **JAM Stack**
 
