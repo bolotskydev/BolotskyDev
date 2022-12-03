@@ -7,9 +7,9 @@
 
 - 📫 Reach me at **frontend@bolotsky.dev**
 
-<p align="center"> 
+<p align="center">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bolotskydev&show_icons=true&theme=tokyonight&hide=["stars"]) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=bolotskydev&show_icons=true&theme=tokyonight&hide=["stars"])
 
 </p>
 
